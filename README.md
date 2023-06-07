@@ -13,3 +13,5 @@ Features of Java:
   <li>Portable</li>
   <li>Dynamic flexibility</li>   
  </ol>
+ 
+<a href="https://www.geeksforgeeks.org/introduction-to-java/">click here for detailed explaination</a>
