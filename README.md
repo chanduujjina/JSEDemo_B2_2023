@@ -1,6 +1,6 @@
 # JSEDemo_B2_2023
 
-Features of Java:
+<h4Features of Java:</h4>
 
 <ol>
   <li>Platform Independent</li>
@@ -15,3 +15,20 @@ Features of Java:
  </ol>
  
 <a href="https://www.geeksforgeeks.org/introduction-to-java/">click here for detailed explaination</a>
+
+<h3>Application of Java</h3>
+<ul>
+  <li>Desktop GUI Applications</li>
+  <li>Mobile Applications</li>
+  <li>Artificial intelligence</li>
+  <li>Web applications</li>
+  <li>Big Data technology</li>
+  <li>Gaming applications</li>
+  <li>Business applications</li>
+  <li>Embedded systems</li>
+  <li>Cloud applications</li>
+  <li>Scientific applications</li>
+   <li>Embedded systems</li>
+   <li>Cloud applications</li>
+    <li>Scientific applications</li>
+</ul>
