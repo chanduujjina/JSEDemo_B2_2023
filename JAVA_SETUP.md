@@ -14,4 +14,4 @@
 <h3>Download STS</h3>
 <a href="https://spring.io/tools">Click here to download STS</a>
 <h3>After downloading the .jar file run the below command</h3>
-<ul> <li>java - jar <jarname></li></ul>
+<ul> <li>java - jar jarname</li></ul>
