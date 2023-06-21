@@ -1,6 +1,6 @@
 # JSEDemo_B2_2023
 <h4>History of Java:</h4>
-<a href="https://www.oracle.com/java/moved-by-java/timeline//">click here for detailed explaination of History of Java</a>
+<a href="https://www.oracle.com/java/moved-by-java/timeline//">Click here for detailed explaination of History of Java</a>
 <h4>Features of Java:</h4>
 
 <ol>
@@ -33,7 +33,7 @@
    <li>Cloud applications</li>
     <li>Scientific applications</li>
 </ul>
-<a href="JAVA_SETUP.md">click here for java setup</a>
+<a href="JAVA_SETUP.md">Click here for java setup</a>
 
 <h3>JDK, JRE and JVM</h3>
-<a href="https://www.geeksforgeeks.org/differences-jdk-jre-jvm/">click here for Detailed explaination of JDK,JRE and JVM</a>
+<a href="https://www.geeksforgeeks.org/differences-jdk-jre-jvm/">Click here for Detailed explaination of JDK,JRE and JVM</a>
