@@ -33,3 +33,4 @@
    <li>Cloud applications</li>
     <li>Scientific applications</li>
 </ul>
+<a href="JAVA_SETUP.md">click here for java setup</a>
