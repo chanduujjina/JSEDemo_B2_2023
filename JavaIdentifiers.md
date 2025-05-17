@@ -62,3 +62,33 @@ Some Java keywords include:
 `class`, `public`, `void`, `static`, `int`, `if`, `else`, `new`, `return`, `try`, `catch`, `final`, etc.
 
 ---
+
+
+# Java Keywords
+
+These are **reserved keywords** in Java and **cannot be used as identifiers** (e.g., variable or method names).
+
+| Keyword       | Keyword      | Keyword       | Keyword       |
+|---------------|--------------|---------------|---------------|
+| abstract      | continue     | for           | new           |
+| assert        | default      | goto*         | package       |
+| boolean       | do           | if            | private       |
+| break         | double       | implements    | protected     |
+| byte          | else         | import        | public        |
+| case          | enum         | instanceof    | return        |
+| catch         | extends      | int           | short         |
+| char          | final        | interface     | static        |
+| class         | finally      | long          | strictfp      |
+| const*        | float        | native        | super         |
+| synchronized  | this         | throw         | volatile      |
+| transient     | try          | throws        | while         |
+| switch        | void         | true**        | false**       |
+| null**        |              |               |               |
+
+---
+
+## Notes:
+- `*` `const` and `goto` are **reserved but not currently used**.
+- `**` `true`, `false`, and `null` are **literals**, not technically keywords, but they also **cannot be used as identifiers**.
+
+
