@@ -40,7 +40,7 @@
 <a href="DataTypes.md">Click here for java data types</a>
 
 <h3>JAVA Identifiers</h3>
-<a href="JavaIdentifiers.md">Click here for Java Identifiers</a>
+<a href="JavaOperators.md">Click here for Java Identifiers</a>
 
 <h3>JAVA Operators</h3>
 <a href="JavaIdentifiers.md">Click here for Java Operators</a>
