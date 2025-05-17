@@ -119,6 +119,16 @@ Choosing the appropriate data type in Java (or any typed language) can significa
 ### 🧠 Tip:
 > Always use the smallest type that fits your data and use domain-appropriate types (e.g., `boolean` for true/false).
 
+### Diffrences b/w float and double
+| Feature           | **float**                           | **double**                           |
+|------------------|-------------------------------------|--------------------------------------|
+| **Size**          | 32 bits (4 bytes)                  | 64 bits (8 bytes)                    |
+| **Precision**     | ~7 decimal digits                  | ~15–16 decimal digits                |
+| **Range**         | ±1.4 × 10<sup>−45</sup> to ±3.4 × 10<sup>38</sup> | ±4.9 × 10<sup>−324</sup> to ±1.7 × 10<sup>308</sup> |
+| **Default type**  | No (in most languages)             | Yes (in most languages like Java, C#)|
+| **Memory usage**  | Lower                              | Higher                               |
+| **Performance**   | Slightly faster on some systems    | Slightly slower but more precise     |
+| **Use case**      | Less precision needed (e.g., graphics) | High precision needed (e.g., scientific calculations) |
 
 
 <a href="https://gist.github.com/igorbotian/ace3863672fb182c07ea88c57b355b98/">Click here for Java data types</a>
