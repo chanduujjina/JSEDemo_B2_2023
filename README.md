@@ -39,10 +39,8 @@
 <a href="https://www.geeksforgeeks.org/differences-jdk-jre-jvm/">Click here for Detailed explaination of JDK,JRE and JVM</a>
 <h3>JAVA Data Types</h3>
 
-<a href="Java_DataTypes.md">Click here for MYSQL more details</a>
+<a href="DataTypes.md">Click here for java data types</a>
 
-<a href="https://gist.github.com/igorbotian/ace3863672fb182c07ea88c57b355b98/">Click here for Java data types</a>
 
-<a href="https://www.geeksforgeeks.org/data-types-in-java/">Click here for Java detailed data types</a>
 
 
