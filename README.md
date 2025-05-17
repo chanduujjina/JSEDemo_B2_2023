@@ -34,12 +34,12 @@
     <li>Scientific applications</li>
 </ul>
 <a href="JAVA_SETUP.md">Click here for java setup</a>
-
 <h3>JDK, JRE and JVM</h3>
 <a href="https://www.geeksforgeeks.org/differences-jdk-jre-jvm/">Click here for Detailed explaination of JDK,JRE and JVM</a>
 <h3>JAVA Data Types</h3>
-
 <a href="DataTypes.md">Click here for java data types</a>
+<h3>JAVA Identifiers</h3>
+<a href="JavaIdentifiers.md">Click here for Java Identifiers</a>
 
 
 
