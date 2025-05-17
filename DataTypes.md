@@ -1,5 +1,9 @@
 ## Java Data Types: Primitive vs Non-Primitive
 
+<img src="java-data-types.png" alt="Flowers in Chania">
+
+
+
 In Java, data types are broadly classified into two categories:
 
 ---
