@@ -92,3 +92,5 @@ These are **reserved keywords** in Java and **cannot be used as identifiers** (e
 - `**` `true`, `false`, and `null` are **literals**, not technically keywords, but they also **cannot be used as identifiers**.
 
 
+<h3>Quiz</h3>
+<a href="IdentifierQuestions.md">Click here to take quiz</a>
