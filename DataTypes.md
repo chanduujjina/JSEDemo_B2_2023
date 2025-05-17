@@ -74,6 +74,16 @@ In Java, data types are broadly classified into two categories:
 | `char`   | 2 bytes  | Single Unicode characters      |
 
 
+| Data Type  | Minimum Value                           | Maximum Value                          | Notes                                  |
+|------------|-----------------------------------------|----------------------------------------|----------------------------------------|
+| **byte**   | -128                                    | 127                                    | 8-bit signed integer                   |
+| **short**  | -32,768                                 | 32,767                                 | 16-bit signed integer                  |
+| **int**    | -2,147,483,648                          | 2,147,483,647                          | 32-bit signed integer                  |
+| **long**   | -9,223,372,036,854,775,808              | 9,223,372,036,854,775,807              | 64-bit signed integer                  |
+| **float**  | ~1.4E-45 (positive min)                 | ~3.4E+38                               | 32-bit IEEE 754 floating point         |
+| **double** | ~4.9E-324 (positive min)                | ~1.7E+308                              | 64-bit IEEE 754 floating point         |
+| **char**   | 0                                       | 65,535 (unsigned 16-bit)               | Unicode character                      |
+| **boolean**| false                                   | true                                   | Only two values                        |
 
 
 
