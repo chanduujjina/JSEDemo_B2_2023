@@ -96,3 +96,41 @@ In Java, **operators** are special symbols used to perform operations on variabl
 
 > 📘 Use these operators in Java to perform mathematical, logical, and comparison operations on variables.
 
+# Bitwise Operators in Java
+
+Bitwise operators perform operations on individual bits of integer types (`int`, `long`, `short`, `byte`, and `char`). They are useful for low-level programming tasks, such as manipulating flags, encoding, or optimizing performance.
+
+---
+
+## Types of Bitwise Operators
+
+| Operator | Description                            | Example            | Result Explanation                      |
+|----------|------------------------------------|--------------------|---------------------------------------|
+| `&`      | Bitwise AND                        | `5 & 3`            | Performs AND on each bit: `0101 & 0011 = 0001` (decimal 1) |
+| `|`      | Bitwise OR                         | `5 \| 3`           | Performs OR on each bit: `0101 \| 0011 = 0111` (decimal 7)  |
+| `^`      | Bitwise XOR (exclusive OR)         | `5 ^ 3`            | Performs XOR on each bit: `0101 ^ 0011 = 0110` (decimal 6) |
+| `~`      | Bitwise NOT (one’s complement)     | `~5`               | Flips all bits: `~0101 = 1010` (decimal -6 in 2’s complement) |
+| `<<`     | Left shift                        | `5 << 1`           | Shifts bits left by 1: `0101 << 1 = 1010` (decimal 10)    |
+| `>>`     | Right shift (sign-propagating)     | `5 >> 1`           | Shifts bits right by 1: `0101 >> 1 = 0010` (decimal 2)    |
+| `>>>`    | Unsigned right shift (zero-fill)   | `-5 >>> 1`         | Shifts bits right by 1, fills left with 0                 |
+
+---
+
+## Examples
+
+```java
+public class BitwiseExample {
+    public static void main(String[] args) {
+        int a = 5;    // binary: 0101
+        int b = 3;    // binary: 0011
+
+        System.out.println("a & b = " + (a & b));   // 1
+        System.out.println("a | b = " + (a | b));   // 7
+        System.out.println("a ^ b = " + (a ^ b));   // 6
+        System.out.println("~a = " + (~a));         // -6 (2's complement)
+        System.out.println("a << 1 = " + (a << 1)); // 10
+        System.out.println("a >> 1 = " + (a >> 1)); // 2
+        System.out.println("-a >>> 1 = " + (-a >>> 1)); // Unsigned right shift
+    }
+}
+
