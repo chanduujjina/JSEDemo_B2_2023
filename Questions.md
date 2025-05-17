@@ -7,7 +7,7 @@ What is the size of an `int` in Java?
 
 - [ ] 8 bits  
 - [ ] 16 bits  
-- [x] 32 bits  
+- [ ] 32 bits  
 - [ ] 64 bits  
 
 <details>
@@ -24,7 +24,7 @@ An `int` in Java is a 32-bit signed integer.
 Which data type is used to represent decimal numbers with double precision in Java?
 
 - [ ] float  
-- [x] double  
+- [ ] double  
 - [ ] int  
 - [ ] long  
 
@@ -61,7 +61,7 @@ What is the default value of a `boolean` variable in Java?
 
 - [ ] true  
 - [ ] 1  
-- [x] false  
+- [ ] false  
 - [ ] null  
 
 <details>
@@ -78,7 +78,7 @@ The default value of a boolean in Java is `false`.
 Which keyword is used to declare a constant variable in Java?
 
 - [ ] const  
-- [x] final  
+- [ ] final  
 - [ ] static  
 - [ ] constant  
 
@@ -96,7 +96,7 @@ Which keyword is used to declare a constant variable in Java?
 What is the range of values that a Java `byte` can hold?
 
 - [ ] 0 to 255  
-- [x] -128 to 127  
+- [ ] -128 to 127  
 - [ ] -32,768 to 32,767  
 - [ ] -2,147,483,648 to 2,147,483,647  
 
@@ -115,7 +115,7 @@ Which data type would you use to store the value `true` or `false`?
 
 - [ ] int  
 - [ ] char  
-- [x] boolean  
+- [ ] boolean  
 - [ ] String  
 
 <details>
@@ -132,7 +132,7 @@ Which data type would you use to store the value `true` or `false`?
 What is the size of a `char` in Java?
 
 - [ ] 8 bits  
-- [x] 16 bits  
+- [ ] 16 bits  
 - [ ] 32 bits  
 - [ ] 64 bits  
 
@@ -149,8 +149,8 @@ A `char` in Java is a 16-bit unsigned Unicode character.
 ### Question 9:  
 Which of the following data types can hold whole numbers without a fractional part?
 
-- [x] int  
-- [x] long  
+- [ ] int  
+- [ ] long  
 - [ ] float  
 - [ ] double  
 
@@ -169,7 +169,7 @@ What is the default value of an uninitialized `int` variable in Java?
 
 - [ ] 1  
 - [ ] null  
-- [x] 0  
+- [ ] 0  
 - [ ] undefined  
 
 <details>
