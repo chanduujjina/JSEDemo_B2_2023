@@ -37,3 +37,7 @@
 
 <h3>JDK, JRE and JVM</h3>
 <a href="https://www.geeksforgeeks.org/differences-jdk-jre-jvm/">Click here for Detailed explaination of JDK,JRE and JVM</a>
+<h3>JAVA Data Types</h3>
+<a href="https://www.geeksforgeeks.org/data-types-in-java/">Click here for Detailed explaination of JDK,JRE and JVM</a>
+
+
