@@ -1,3 +1,21 @@
+### 📊 Java Data Types Summary
+
+| Type     | Size     | Typical Use Case               |
+|----------|----------|--------------------------------|
+| `byte`   | 1 byte   | Small numbers, binary data     |
+| `short`  | 2 bytes  | Rare use, legacy or tight memory |
+| `int`    | 4 bytes  | Default for integers           |
+| `long`   | 8 bytes  | Large numbers, timestamps      |
+| `float`  | 4 bytes  | Decimal numbers, less precision |
+| `double` | 8 bytes  | Default for decimal numbers    |
+| `boolean`| ~1 bit   | True/false flags               |
+| `char`   | 2 bytes  | Single Unicode characters      |
+
+
+
+
+
+
 ## Why Choosing the Right Data Type Matters
 
 Choosing the appropriate data type in Java (or any typed language) can significantly affect your application's performance, readability, and reliability.
