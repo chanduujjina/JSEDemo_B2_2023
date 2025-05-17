@@ -23,17 +23,21 @@ Can a Java identifier start with a dollar sign `$`?
 <hr/>
 
 <script>
-  function checkAnswer(button, isCorrect) {
-    // Find the <p> tag directly after this question to show the answer
-    const resultPara = button.parentElement.querySelector("p");
-    if (!resultPara) return;
+  let score = 0;
+function checkAnswer(button, isCorrect) {
+  const resultPara = button.parentElement.querySelector("p");
+  if (!resultPara) return;
 
-    if (isCorrect) {
-      resultPara.innerText = "✅ Correct!";
-      resultPara.style.color = "green";
-    } else {
-      resultPara.innerText = "❌ Incorrect!";
-      resultPara.style.color = "red";
-    }
+  if (resultPara.innerText) return; // Prevent multiple clicks
+
+  if (isCorrect) {
+    resultPara.innerText = "✅ Correct!";
+    resultPara.style.color = "green";
+    score++;
+  } else {
+    resultPara.innerText = "❌ Incorrect!";
+    resultPara.style.color = "red";
   }
+  document.getElementById("score").innerText = `Score: ${score}`;
+}
 </script>
