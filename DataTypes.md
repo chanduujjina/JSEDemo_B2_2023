@@ -30,7 +30,7 @@ In Java, data types are broadly classified into two categories:
 
 ---
 
-<img src="ByteSize.jpg" alt="Flowers in Chania">
+
 
 ### ✅ Non-Primitive Data Types
 
