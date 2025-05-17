@@ -139,6 +139,6 @@ Choosing the appropriate data type in Java (or any typed language) can significa
 
 <a href="https://www.geeksforgeeks.org/data-types-in-java/">Click here for Java detailed data types</a>
 
-<h3>Data Types  Quiz</h3>
+<h3>Data Types Quiz</h3>
 <a href="Questions.md">Click here to take quiz on data type</a>
 
