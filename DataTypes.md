@@ -1,3 +1,65 @@
+## Java Data Types: Primitive vs Non-Primitive
+
+In Java, data types are broadly classified into two categories:
+
+---
+
+### ✅ Primitive Data Types
+
+- Built-in types provided by the Java language.
+- Store **simple values** (not objects).
+- Fast and memory-efficient.
+- Stored on the **stack**.
+
+#### 🔹 Examples:
+
+| Type     | Size     | Description                 |
+|----------|----------|-----------------------------|
+| `byte`   | 1 byte   | Small integer (−128 to 127) |
+| `short`  | 2 bytes  | Medium integer              |
+| `int`    | 4 bytes  | Standard integer            |
+| `long`   | 8 bytes  | Large integer               |
+| `float`  | 4 bytes  | Decimal (single precision)  |
+| `double` | 8 bytes  | Decimal (double precision)  |
+| `char`   | 2 bytes  | Single character (Unicode)  |
+| `boolean`| ~1 bit   | `true` or `false`           |
+
+---
+
+### ✅ Non-Primitive Data Types
+
+- Also called **reference types**.
+- Can store **multiple values** and **methods** (like objects).
+- Stored on the **heap**, with references on the stack.
+- Can be `null`.
+- Created using **classes**, **arrays**, **interfaces**, etc.
+
+#### 🔹 Examples:
+- `String`
+- Arrays (`int[]`, `String[]`)
+- User-defined classes (`MyClass`)
+- Collections (`List`, `Map`, `Set`)
+- Interfaces
+
+---
+
+### 🆚 Key Differences
+
+| Feature             | Primitive           | Non-Primitive             |
+|---------------------|---------------------|----------------------------|
+| Memory              | Stack               | Heap                      |
+| Nullability         | Cannot be `null`    | Can be `null`             |
+| Methods             | No methods          | Can have methods          |
+| Mutability          | Immutable           | Mutable (mostly)          |
+| Example             | `int x = 10;`       | `String s = "Hello";`     |
+
+---
+
+> 🧠 **Tip**: Use primitives for performance-critical tasks, and non-primitives when you need objects or collections of data.
+
+
+
+
 ### 📊 Java Data Types Summary
 
 | Type     | Size     | Typical Use Case               |
