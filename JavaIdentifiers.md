@@ -26,6 +26,8 @@ An **identifier** is the name used for:
 
 ---
 
+
+
 ## ✅ Examples of Valid Identifiers
 
 - `myVar`
@@ -46,6 +48,10 @@ An **identifier** is the name used for:
 | `first name`  | Contains a space            |
 
 ---
+## ❌ Characters **Not Allowed** in Identifiers
+
+### Special Characters (Invalid):
+- `@` `#` `%` `^` `&` `*` `(` `)` `-` `+` `=` `{` `}` `[ `]` `:` `;` `'` `"` `<` `>` `,` `.` `?` `/` `\` `|` `~`
 
 ## 💡 Best Practices
 
