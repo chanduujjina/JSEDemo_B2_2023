@@ -12,7 +12,7 @@ In Java, **operators** are special symbols used to perform operations on variabl
 | `-`      | Subtraction          | `a - b`                      | `7`    |
 | `*`      | Multiplication       | `a * b`                      | `30`   |
 | `/`      | Division             | `a / b`                      | `3`    |
-| `%`      | Modulus (Remainder) | `a % b`                      | `1`    |
+| `%`      | Modulus (Remainder)  | `a % b`                      | `1`    |
 
 ---
 
