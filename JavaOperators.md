@@ -33,9 +33,9 @@ In Java, **operators** are special symbols used to perform operations on variabl
 
 | Operator | Description    | Example         | Result  |
 |----------|----------------|------------------|---------|
-| `&&`     | Logical AND     | `true && false`  | `false` |
-| `||`     | Logical OR      | `true || false`  | `true`  |
-| `!`      | Logical NOT     | `!true`          | `false` |
+| `&&`     | Logical AND    | `true && false`  | `false` |
+| `||`     | Logical OR     | `true || false`  | `true`  |
+| `!`      | Logical NOT    | `!true`          | `false` |
 
 ---
 
