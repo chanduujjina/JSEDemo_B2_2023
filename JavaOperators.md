@@ -29,13 +29,14 @@ In Java, **operators** are special symbols used to perform operations on variabl
 
 ---
 
+
 ## 🔹 3. Logical Operators
 
-| Operator | Description    | Example          | Result  |
-|----------|----------------|------------------|---------|
-| `&&`     | Logical AND    | `true && false`  | `false` |
-| `||`     | Logical OR     | `true || false`  | `true`  |
-| `!`      | Logical NOT    | `!true`          | `false` |
+| Operator | Name         | Description                                      | Example           | Result   |
+|----------|--------------|--------------------------------------------------|-------------------|----------|
+| `&&`     | Logical AND  | Returns `true` only if **both** operands are true  | `true && false`   | `false`  |
+| `||`     | Logical OR   | Returns `true` if **any one** operand is true     | `true || false`   | `true`   |
+| `!`      | Logical NOT  | Inverts the `boolean` value                       | `!true`           | `false`  |
 
 ---
 
